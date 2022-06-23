@@ -1,9 +1,6 @@
 # DiscordPy-Officer-Pepega
  
-<div id="header" align="left">
-  <img src="https://imgur.com/HZuCQr0" width="100"/>
-</div>
+[![pepegapolice.jpg](https://i.postimg.cc/Wb0vHC6x/pepegapolice.jpg)](https://postimg.cc/9rXK4xkB)
 
- https://img.shields.io/github/repo-size/manel-graca/DiscordPy-Officer-Pepega
 
  
