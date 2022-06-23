@@ -3,8 +3,8 @@
 
 # About
 
-Officer Pepega is a troll bot for Discord. It was created purely for fun, but feel free to clone or even contribute!
-The bot's responses are written in Portuguese. At the moment there is no support for other languages, it's something I need to work on.
+<p>Officer Pepega is a troll bot for Discord. It was created purely for fun, but feel free to clone or even contribute!<br>
+The bot's responses are written in Portuguese. At the moment there is no support for other languages, it's something I need to work on.</p>
 
 
 
